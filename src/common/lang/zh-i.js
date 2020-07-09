@@ -1,0 +1,20 @@
+export const dict = {
+  'machineCode': '设备编码',
+  'machineName': '设备名称',
+  'machineModelName': '设备型号',
+  'param': '规格参数',
+  'dpuCode': '网关编号',
+  'projectName': '设备分组',
+  'startTime': '入网时间',
+  'onlineTime': '在线时长',
+  'runTime': '运行时长',
+  'attributes': '动态属性',
+  'createDate': '创建时间',
+  'dpuName': '网关名称',
+  'dpuModelName': '网关型号',
+  'orgName': '用户信息',
+  'startDate': '入网时间',
+  'onLineTime': '在线时长',
+  'simNo': 'SIM卡',
+  'TEMPLATE': '数据模板'
+}
